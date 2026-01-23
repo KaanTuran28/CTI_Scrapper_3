@@ -50,8 +50,11 @@ Bu proje, siber güvenlik analistlerinin manuel istihbarat toplama süreçlerini
 - Test, demo ve eğitim ortamları için uygun yapı  
 
 ---
+## Projeye ait ekran görüntüsü dashboard
 
+<img width="1856" height="991" alt="Ekran görüntüsü 2026-01-22 191406" src="https://github.com/user-attachments/assets/2b5ebdb8-c9dd-4721-97ac-2c2f8f25fb41" />
 
+---
 ## Projenin Amacı
 
 - Dark Web üzerinde dağınık halde bulunan tehdit verilerini merkezi olarak toplamak  
