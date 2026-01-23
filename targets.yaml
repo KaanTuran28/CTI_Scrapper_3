@@ -1,0 +1,96 @@
+targets:
+  - name: "Anonymous Hackers"
+    url: "http://twcd7fo4eepxznx7vajl5njkfpkz3g3z6qhynffcy3hb6n42dov2omid.onion/"
+    category: "Hacking"
+
+  - name: "Def Con Forum"
+    url: "http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/"
+    category: "Tech"
+
+  - name: "Hell Forum"
+    url: "http://hell2ker5i3xsy6szrl2pulaqo3jhcz6pt7ffdxtuqjqiycvmlkcddqd.onion/"
+    category: "Forum"
+
+  - name: "Hacking Team"
+    url: "http://bmewst6p4bqkagongvohr26rv576wwuuquxmzqpao7gmkhdqgeqvcpid.onion/"
+    category: "Hacking"
+
+  - name: "Bizzle Forum"
+    url: "http://bizzle7qdloigdiiqionusf7dfw6tmrqhtjwkjviwtjmwovphqftvaid.onion/"
+    category: "Forum"
+
+  - name: "GhostHub Forum"
+    url: "http://aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid.onion/"
+    category: "Forum"
+
+  - name: "DragonForce"
+    url: "http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion/"
+    category: "Hacking"
+
+  - name: "Exploit.in"
+    url: "https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion"
+    category: "Market"
+
+  - name: "Hack Liberty"
+    url: "http://yw7nc56v4nsudvwewhmhhwltxpncedfuc43qbubj4nmwhdhwtiu4o6yd.onion/"
+    category: "Hacking"
+
+  - name: "French Pool"
+    url: "http://frenchpoolhdakynrvuhndrdlh5lxqp5prvh457mv26ebcdnbgqyhgyd.onion/viewforum.php?id=1"
+    category: "Forum"
+
+  - name: "BBC News Onion"
+    url: "https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/"
+    category: "News"
+
+  - name: "Facebook Onion"
+    url: "https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/"
+    category: "Social"
+
+  - name: "Reddit Onion"
+    url: "https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/"
+    category: "Social"
+
+  - name: "ProtonMail"
+    url: "https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/"
+    category: "Email"
+
+  - name: "Dark_Net_Army"
+    url: "http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion/"
+    category: "Hacking"
+
+  - name: "RansomLook"
+    url: "http://ransomlookumjrc6erzqn467lkcu2t5h4enjzfigvsxrrktxicysi2yd.onion/"
+    category: "Ransomware"
+
+  - name: "The Green Machine"
+    url: "http://vw5vzi62xqhihghvonatid7imut2rkgiudl3xomj4jftlmanuwh4r2qd.onion/threadlist.php?"
+    category: "Market"
+
+  - name: "Lazagrad Hack Team"
+    url: "http://ua3br3q7xakgq7vug3vbe5uoinavjaklucxtkxxxyzhbfrl75wugioqd.onion/"
+    category: "Hacking"
+
+  - name: "TorBuy Market"
+    url: "http://torbuy4iw7eghmdkpllz2tjvphtsey6a47mn2mjsmcii4vlv3wr2csqd.onion/forum/"
+    category: "Market"
+
+  - name: "Pitch Forum"
+    url: "https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion/"
+    category: "Forum"
+
+  - name: "Breaking Bad Forum"
+    url: "http://bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion/"
+    category: "Forum"
+
+  - name: "Ramble Forum"
+    url: "http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion/"
+    category: "Forum"
+
+  - name: "Shadow Forum"
+    url: "http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion/"
+    category: "Forum"
+
+  - name: "Deep Answers"
+    url: "http://deepa2kol4ur4wkzpmjf5rf7lvsflzisslnrnr2n7goaebav4j6w7zyd.onion/"
+    category: "Q&A"

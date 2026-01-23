@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  dashboard:
+    build: .
+    container_name: cti_dashboard
+    command: ./dashboard-app
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./darkweb_data.db:/app/darkweb_data.db
+      - ./scan_report.log:/app/scan_report.log
+    restart: always
+
